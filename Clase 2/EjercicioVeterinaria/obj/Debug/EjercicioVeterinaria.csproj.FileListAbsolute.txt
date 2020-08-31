@@ -1,0 +1,7 @@
+C:\Users\Quimey\source\repos\EjercicioVeterinaria\bin\Debug\EjercicioVeterinaria.exe.config
+C:\Users\Quimey\source\repos\EjercicioVeterinaria\bin\Debug\EjercicioVeterinaria.exe
+C:\Users\Quimey\source\repos\EjercicioVeterinaria\bin\Debug\EjercicioVeterinaria.pdb
+C:\Users\Quimey\source\repos\EjercicioVeterinaria\obj\Debug\EjercicioVeterinaria.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\EjercicioVeterinaria\obj\Debug\EjercicioVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\EjercicioVeterinaria\obj\Debug\EjercicioVeterinaria.exe
+C:\Users\Quimey\source\repos\EjercicioVeterinaria\obj\Debug\EjercicioVeterinaria.pdb

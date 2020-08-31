@@ -1,0 +1,7 @@
+C:\Users\Quimey\source\repos\EjercicioPractica1\bin\Debug\EjercicioPractica1.exe.config
+C:\Users\Quimey\source\repos\EjercicioPractica1\bin\Debug\EjercicioPractica1.exe
+C:\Users\Quimey\source\repos\EjercicioPractica1\bin\Debug\EjercicioPractica1.pdb
+C:\Users\Quimey\source\repos\EjercicioPractica1\obj\Debug\EjercicioPractica1.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\EjercicioPractica1\obj\Debug\EjercicioPractica1.exe
+C:\Users\Quimey\source\repos\EjercicioPractica1\obj\Debug\EjercicioPractica1.pdb
+C:\Users\Quimey\source\repos\EjercicioPractica1\obj\Debug\EjercicioPractica1.csprojAssemblyReference.cache
