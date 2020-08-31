@@ -1,0 +1,7 @@
+C:\Users\Quimey\source\repos\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\Quimey\source\repos\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\Quimey\source\repos\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\Quimey\source\repos\Clase 2\obj\Debug\Clase 2.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\Clase 2\obj\Debug\Clase 2.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\Quimey\source\repos\Clase 2\obj\Debug\Clase 2.pdb
