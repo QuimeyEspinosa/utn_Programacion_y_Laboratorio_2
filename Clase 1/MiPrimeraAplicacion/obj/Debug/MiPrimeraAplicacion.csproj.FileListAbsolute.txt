@@ -1,0 +1,7 @@
+C:\Users\Quimey\source\repos\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe.config
+C:\Users\Quimey\source\repos\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.exe
+C:\Users\Quimey\source\repos\MiPrimeraAplicacion\bin\Debug\MiPrimeraAplicacion.pdb
+C:\Users\Quimey\source\repos\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.exe
+C:\Users\Quimey\source\repos\MiPrimeraAplicacion\obj\Debug\MiPrimeraAplicacion.pdb

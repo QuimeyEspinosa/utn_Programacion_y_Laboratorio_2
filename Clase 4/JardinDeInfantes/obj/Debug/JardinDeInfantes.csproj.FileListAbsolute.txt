@@ -1,0 +1,7 @@
+C:\Users\Quimey\source\repos\JardinDeInfantes\bin\Debug\JardinDeInfantes.exe.config
+C:\Users\Quimey\source\repos\JardinDeInfantes\bin\Debug\JardinDeInfantes.exe
+C:\Users\Quimey\source\repos\JardinDeInfantes\bin\Debug\JardinDeInfantes.pdb
+C:\Users\Quimey\source\repos\JardinDeInfantes\obj\Debug\JardinDeInfantes.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\JardinDeInfantes\obj\Debug\JardinDeInfantes.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\JardinDeInfantes\obj\Debug\JardinDeInfantes.exe
+C:\Users\Quimey\source\repos\JardinDeInfantes\obj\Debug\JardinDeInfantes.pdb

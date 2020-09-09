@@ -1,0 +1,7 @@
+C:\Users\Quimey\source\repos\EjercicioIntegrador1\bin\Debug\EjercicioIntegrador.exe.config
+C:\Users\Quimey\source\repos\EjercicioIntegrador1\bin\Debug\EjercicioIntegrador.exe
+C:\Users\Quimey\source\repos\EjercicioIntegrador1\bin\Debug\EjercicioIntegrador.pdb
+C:\Users\Quimey\source\repos\EjercicioIntegrador1\obj\Debug\EjercicioIntegrador.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\EjercicioIntegrador1\obj\Debug\EjercicioIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\EjercicioIntegrador1\obj\Debug\EjercicioIntegrador.exe
+C:\Users\Quimey\source\repos\EjercicioIntegrador1\obj\Debug\EjercicioIntegrador.pdb

@@ -1,0 +1,7 @@
+C:\Users\Quimey\source\repos\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\Repaso\bin\Debug\Repaso.exe.config
+C:\Users\Quimey\source\repos\Repaso\bin\Debug\Repaso.exe
+C:\Users\Quimey\source\repos\Repaso\bin\Debug\Repaso.pdb
+C:\Users\Quimey\source\repos\Repaso\obj\Debug\Repaso.exe
+C:\Users\Quimey\source\repos\Repaso\obj\Debug\Repaso.pdb
+C:\Users\Quimey\source\repos\Repaso\obj\Debug\Repaso.csprojAssemblyReference.cache

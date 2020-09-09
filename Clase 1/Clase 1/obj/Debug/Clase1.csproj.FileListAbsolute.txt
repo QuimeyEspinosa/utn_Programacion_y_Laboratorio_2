@@ -1,0 +1,6 @@
+C:\Users\Quimey\source\repos\ConsoleApp1\bin\Debug\Clase 1.exe.config
+C:\Users\Quimey\source\repos\ConsoleApp1\bin\Debug\Clase 1.exe
+C:\Users\Quimey\source\repos\ConsoleApp1\bin\Debug\Clase 1.pdb
+C:\Users\Quimey\source\repos\ConsoleApp1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\ConsoleApp1\obj\Debug\Clase 1.exe
+C:\Users\Quimey\source\repos\ConsoleApp1\obj\Debug\Clase 1.pdb

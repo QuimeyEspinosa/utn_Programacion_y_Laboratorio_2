@@ -16,7 +16,6 @@ namespace Clase_2
         public int legajo;
         public string nombre;
 
-        //prueba git
 
         public void Estudiar(byte notaUno, byte notaDos)
         {

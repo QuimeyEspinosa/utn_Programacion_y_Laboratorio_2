@@ -1,0 +1,2 @@
+C:\Users\Quimey\source\repos\Clase 3\obj\Debug\Clase 3.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\Clase 3\obj\Debug\Clase 3.csproj.CoreCompileInputs.cache
