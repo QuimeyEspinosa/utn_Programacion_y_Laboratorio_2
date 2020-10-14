@@ -1,0 +1,6 @@
+C:\Users\Quimey\source\repos\EjemploPolimorfismo\EjemploPolimorfismo\bin\Debug\EjemploPolimorfismo.dll
+C:\Users\Quimey\source\repos\EjemploPolimorfismo\EjemploPolimorfismo\bin\Debug\EjemploPolimorfismo.pdb
+C:\Users\Quimey\source\repos\EjemploPolimorfismo\EjemploPolimorfismo\obj\Debug\EjemploPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\EjemploPolimorfismo\EjemploPolimorfismo\obj\Debug\EjemploPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\EjemploPolimorfismo\EjemploPolimorfismo\obj\Debug\EjemploPolimorfismo.dll
+C:\Users\Quimey\source\repos\EjemploPolimorfismo\EjemploPolimorfismo\obj\Debug\EjemploPolimorfismo.pdb

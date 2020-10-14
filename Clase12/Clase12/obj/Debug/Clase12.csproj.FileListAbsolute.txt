@@ -1,0 +1,10 @@
+C:\Users\Quimey\source\repos\Clase12\Clase12\obj\Debug\Clase12.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\Clase12\Clase12\obj\Debug\Clase12.Form1.resources
+C:\Users\Quimey\source\repos\Clase12\Clase12\obj\Debug\Clase12.Properties.Resources.resources
+C:\Users\Quimey\source\repos\Clase12\Clase12\obj\Debug\Clase12.csproj.GenerateResource.cache
+C:\Users\Quimey\source\repos\Clase12\Clase12\obj\Debug\Clase12.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\Clase12\Clase12\bin\Debug\Clase12.exe.config
+C:\Users\Quimey\source\repos\Clase12\Clase12\bin\Debug\Clase12.exe
+C:\Users\Quimey\source\repos\Clase12\Clase12\bin\Debug\Clase12.pdb
+C:\Users\Quimey\source\repos\Clase12\Clase12\obj\Debug\Clase12.exe
+C:\Users\Quimey\source\repos\Clase12\Clase12\obj\Debug\Clase12.pdb
