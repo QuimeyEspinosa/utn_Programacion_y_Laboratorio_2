@@ -1,0 +1,13 @@
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\bin\Debug\Entidades.dll
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\bin\Debug\Entidades.pdb
+C:\Users\Quimey\source\repos\Clase 22\FrmLogin\obj\Debug\Forms.csproj.CopyComplete
